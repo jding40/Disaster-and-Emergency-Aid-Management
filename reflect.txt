@@ -1,0 +1,9 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             OOP 244 milestone
+Full Name  : Jianzhong Ding
+Student ID#: 102212230
+
+This milestone is really a well-designed project, which I think is very helpful for improving my C++ skills, and computational thinking. This milestone build up a simple Disaster and Emergency Aid Management system. I followed the instruction step by step, and finally finished the layout of the system, which contains a series of menu system. and I use one set of menu function(Menu::run()) to run all kinds of menus(like: mainMenu, addingMenu, removeMenu, updateQtyMenu). And I learned how to switch from one module to another module through those functions, which  brings me great joy and fulfillment.
+But also, I met with some challenges, one main challenge is about the pointer. I suffered from bugs caused by memory leaks and dangling Pointers for several time, some of which later proved to be caused by the copy assgignment function. Now I am very careful with those rule-of-three functions. The other issue that concerned me the most is still the road-map design. Even with those detailed instructions, it's sometimes still difficult to design the step-by-step procesure to realize the final goal of each module.
+However, compared to last semester's milestone for IPC 144, this semester's milestone has been much easier for me to handle, which brings me a lot of comfort.I am now becoming more and more confident about my C++ studies. Thanks again for our OOP professor and the designer of this milestone. 
